@@ -1,2 +1,2 @@
-# UE_Pong
-The arcade classic from 1972, Pong, developed in Unreal Engine 5
+# UE_PaddlePong
+An arcade classic, developed in Unreal Engine 5!
